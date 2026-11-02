@@ -1,0 +1,29 @@
+{
+  "base_url": "https://vedic-horanew.vercel.app/",
+  "backup_url": "https://vedic-horanew.vercel.app/",
+  "allowed_domains": [
+    "vedic-horanew.vercel.app"
+  ],
+  "cache_version": 1,
+  "clear_storage": false,
+  "enable_pull_to_refresh": false,
+  "block_screenshots": false,
+  "keep_screen_on": false,
+  "screen_orientation": "portrait",
+  "status_bar_color": "#000000",
+  "light_status_bar_icons": false,
+  "custom_css": "",
+  "maintenance_mode": false,
+  "maintenance_message": "App me naya update aa raha hai, kripya thodi der baad kholein.",
+  "min_app_version": 1,
+  "playstore_url": "https://play.google.com/store/apps/details?id=com.vedichora.app",
+  "popup": {
+    "show": false,
+    "id": 101,
+    "show_once": true,
+    "title": "Naya Update!",
+    "message": "Humne app me naye features jode hain.",
+    "button_text": "Dekhein",
+    "button_url": "https://vedic-horanew.vercel.app/"
+  }
+}
