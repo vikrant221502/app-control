@@ -1,6 +1,6 @@
 {
-  "base_url": "https://vedic-horanew.vercel.app/",
-  "backup_url": "https://vedic-horanew.vercel.app/",
+  "base_url": "https://vedic-horanew.vercel.app",
+  "backup_url": "https://vedic-horanew.vercel.app",
   "allowed_domains": [
     "vedic-horanew.vercel.app"
   ],
